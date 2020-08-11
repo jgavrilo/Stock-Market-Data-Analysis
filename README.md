@@ -1,6 +1,7 @@
 # Stock-Market-Data-Analysis
 Sentiment Analysis on tweets
-packages to be installed: alpha_vantage, matplotlib, numpy, pandas, time
+
+Packages to be installed: alpha_vantage, matplotlib, numpy, pandas, time
 
 To install any packages: 
 Pip install package_name
